@@ -1,2 +1,7 @@
 # DESI High
-Prueba prueba 1 2 3 
+Repository created for the DESI High Test. 
+Created by 
+  Arturo
+  José María
+  Alexandro
+  Marco
